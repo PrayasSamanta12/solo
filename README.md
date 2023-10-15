@@ -1,0 +1,2 @@
+# solo
+about web development 
